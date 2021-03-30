@@ -2,4 +2,4 @@
 
 | Room Name | Difficulty | Topics | 
 |:--------------|:-------------:|--------------:|
-| Brute It |  | brute force, hash cracking, Privilege escalation | Easy
+| [Brute It](https://github.com/InfoSec-Crow/TryHackMe-WriteUps/issues/1) |  Easy | brute force, hash cracking, Privilege escalation | 
